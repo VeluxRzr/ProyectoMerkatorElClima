@@ -69,6 +69,7 @@ namespace ProyectoMerkatorElClima
 					
 					imgIcono.Visible = false;
 				}
+				txtCiudad.Text = string.Empty;
 			}
 		}
 
